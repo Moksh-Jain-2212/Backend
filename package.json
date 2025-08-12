@@ -1,0 +1,19 @@
+{
+  "name": "moksh-backend",
+  "version": "1.0.0",
+  "description": "Backend with Moksh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "author": "Moksh Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
